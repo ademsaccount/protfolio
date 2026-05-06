@@ -2,128 +2,140 @@
   "fr": {
     "education": [
       {
-        "degree": "TRONC COMMUN",
-        "institution": "42 Paris",
-        "year": "2024 - 2025"
+        "degree": "DIPLÔME D'INGÉNIEUR EN INFORMATIQUE",
+        "institution": "Esprit",
+        "year": "2022 - 2025",
+        "details": "Mention Très Bien - Cycle Ingénieur (3 ans)"
       },
       {
-        "degree": "BACHELOR DÉVELOPPEMENT WEB",
-        "institution": "MyDigitalSchool Rennes",
-        "year": "2022 - 2024"
-      },
-      {
-        "degree": "LICENCE ÉCONOMIE-GESTION PARCOURS MARKETING",
-        "institution": "Université de Varsovie, Faculté de Management",
-        "year": "2020 - 2021"
-      },
-      {
-        "degree": "DUT TECHNIQUES DE COMMERCIALISATION",
-        "institution": "IUT du Havre, site caucriauville",
-        "year": "2018 - 2020"
+        "degree": "LICENCE EN GÉNIE CIVIL",
+        "institution": "ISET Seliana",
+        "year": "2018 - 2021"
       }
     ],
     "workExperience": [
       {
-        "jobTitle": "MISSION DÉVELOPPEUR WEB",
-        "company": "Indépendant, Paris (75)",
-        "year": "Avril 2025",
-        "responsibilities": ["Création du site web fanny-seraudie.fr", "Conception de base de données et du backoffice", "Mise en production avec pipeline Jenkins / Docker sur VPS"]
-      },
-      {
-        "jobTitle": "ALTERNANT DÉVELOPPEUR WEB",
-        "company": "Screenup, Rennes (35)",
-        "year": "Octobre - Juin 2024",
-        "responsibilities": ["Conception et création de sites web", "Mise en Production", "Développement opérationnel sur serveur"]
-      },
-      {
-        "jobTitle": "STAGIAIRE DÉVELOPPEUR WEB",
-        "company": "Pangaia, Rennes (35)",
-        "year": "Avril - Juin 2023",
-        "responsibilities": ["Création d'une application avec Vue.js / Docker / Laravel", "Conception de la maquette ", "Travail d'équipe utilisant Git"]
-      },
-      {
-        "jobTitle": "OPÉRATEUR DE SAISIE",
-        "company": "Tessi, Rennes (35)",
-        "year": "Décembre - Juin 2021 - 2022",
-        "responsibilities": ["Saisies bancaires pour le compte des finances publiques", "Ouverture de compte bancaire", "Participation à la démarche qualité"]
-      },
-      {
-        "jobTitle": "STAGIAIRE COMMERCIAL",
-        "company": "ACLP, Le Havre (76)",
-        "year": "Avril - Juin 2020",
-        "responsibilities": ["Développement commercial", "Campagne de mailing", "Création d'un site web sur Prestashop"]
-      },
-      {
-        "jobTitle": "PROJET TUTEURÉ - SKI",
-        "company": "Iut site Caucriauville, Le Havre (76)",
-        "year": "2019 - 2020",
+        "jobTitle": "PROJET DE FIN D'ÉTUDES - TAWASALNA",
+        "company": "Esprit",
+        "year": "2025",
         "responsibilities": [
-          "Actions commerciales pour financer le projet",
-          "Organisation d'un séjour au ski pour 130 participants",
-          "Négociation du contrat pour l'année suivante"
+          "Développement d'une application hyper-locale permettant la communication, l'échange et la publication de contenu basé sur la géolocalisation",
+          "Architecture MVVM avec frontend en React Native (Expo) et backend en Spring Boot",
+          "Optimisation des performances pour améliorer l'expérience utilisateur",
+          "Marketplace intégrée"
         ]
+      },
+      {
+        "jobTitle": "STAGE - CHARPENTE MÉTALLIQUE",
+        "company": "ISET Seliana",
+        "year": "2019 - 2021",
+        "responsibilities": [
+          "Calculs de résistance pour la sélection des profils appropriés",
+          "Conception et dimensionnement de structures métalliques",
+          "3 stages complétés dans le domaine du génie civil"
+        ]
+      }
+    ],
+    "academicProjects": [
+      {
+        "name": "Système de Gestion des Élections",
+        "description": "Application desktop en C sous Ubuntu pour la gestion des élections, avec interface graphique Glade/GTK+. Permet la gestion des candidats et électeurs, le vote électronique et l'affichage des résultats, avec stockage local en fichiers plats (CSV/JSON)."
+      },
+      {
+        "name": "AquaGuard",
+        "description": "Suite d'applications mobiles pour Android, iOS et Flutter, visant à promouvoir la conservation de l'eau et la protection de la vie aquatique. Interfaces utilisateurs conçues avec un backend Node.js pour une expérience fluide et durable."
+      },
+      {
+        "name": "CrossChat",
+        "description": "Conception et développement d'un SDK de messagerie en temps réel pour Android, iOS et Flutter, accessible via une plateforme dédiée. La plateforme permet aux utilisateurs de s'inscrire, de générer des jetons et de télécharger le SDK adapté à leurs besoins."
+      },
+      {
+        "name": "DevOps CI/CD Pipeline",
+        "description": "Création d'un pipeline CI/CD complet pour une application full-stack utilisant Spring Boot et Angular, avec automatisation du déploiement et des tests."
+      }
+    ],
+    "languages": [
+      {
+        "language": "Arabe",
+        "level": "Natif"
+      },
+      {
+        "language": "Français",
+        "level": "Professionnel"
+      },
+      {
+        "language": "Anglais",
+        "level": "Professionnel"
       }
     ]
   },
   "en": {
     "education": [
       {
-        "degree": "COMMON CORE",
-        "institution": "42 Paris",
-        "year": "2024 - 2025"
+        "degree": "COMPUTER ENGINEER DIPLOMA",
+        "institution": "Esprit",
+        "year": "2022 - 2025",
+        "details": "Distinction: Highest Honors - 3-Year Engineer Cycle"
       },
       {
-        "degree": "BACHELOR WEB DEVELOPMENT",
-        "institution": "MyDigitalSchool Rennes",
-        "year": "2022 - 2024"
-      },
-      {
-        "degree": "BACHELOR ECONOMICS, MANAGEMENT AND MARKETING",
-        "institution": "University of Warsaw, Faculty of Management",
-        "year": "2020 - 2021"
-      },
-      {
-        "degree": "DUT SALES TECHNIQUES",
-        "institution": "IUT of le Havre",
-        "year": "2018 - 2020"
+        "degree": "BACHELOR IN CIVIL ENGINEERING",
+        "institution": "ISET Seliana",
+        "year": "2018 - 2021"
       }
     ],
     "workExperience": [
       {
-        "jobTitle": "WEB DEVELOPER MISSION",
-        "company": "Freelance, Paris (75)",
-        "year": "April 2025",
-        "responsibilities": ["Creation of the website fanny-seraudie.fr", "Database and backoffice design", "Production deployment with Jenkins / Docker pipeline on VPS"]
+        "jobTitle": "FINAL PROJECT - TAWASALNA",
+        "company": "Esprit",
+        "year": "2025",
+        "responsibilities": [
+          "Development of a hyper-local application enabling communication, content exchange and publishing based on geolocation",
+          "MVVM architecture with React Native (Expo) frontend and Spring Boot backend",
+          "Performance optimization to enhance user experience",
+          "Integrated marketplace"
+        ]
       },
       {
-        "jobTitle": "WEB DEVELOPER WORK-STUDY",
-        "company": "Screenup, Rennes (35)",
-        "year": "October - June 2024",
-        "responsibilities": ["Website design and creation", "Production deployment", "Operational server development"]
+        "jobTitle": "INTERNSHIP - METALLIC FRAMING",
+        "company": "ISET Seliana",
+        "year": "2019 - 2021",
+        "responsibilities": [
+          "Resistance calculations for selection of appropriate profiles",
+          "Design and sizing of metallic structures",
+          "3 internships completed in civil engineering domain"
+        ]
+      }
+    ],
+    "academicProjects": [
+      {
+        "name": "Election Management System",
+        "description": "Desktop application in C under Ubuntu for election management, with Glade/GTK+ graphical interface. Manages candidates and voters, enables electronic voting and displays results, with local storage in flat files (CSV/JSON)."
       },
       {
-        "jobTitle": "WEB DEVELOPER INTERN",
-        "company": "Pangaia, Rennes (35)",
-        "year": "April - June 2023",
-        "responsibilities": ["Created an application using Vue.js / Docker / Laravel", "Designed the mockup", "Teamwork using Git"]
+        "name": "AquaGuard",
+        "description": "Suite of mobile applications for Android, iOS and Flutter, aimed at promoting water conservation and aquatic life protection. User interfaces designed with a Node.js backend for a smooth and sustainable experience."
       },
       {
-        "jobTitle": "DATA ENTRY OPERATOR",
-        "company": "Tessi, Rennes (35)",
-        "year": "December - June 2021 - 2022",
-        "responsibilities": ["Bank data entry for public finance purposes", "Bank account opening", "Participation in the quality process"]
+        "name": "CrossChat",
+        "description": "Design and development of a real-time messaging SDK for Android, iOS and Flutter, accessible via a dedicated platform. The platform allows users to register, generate tokens and download the SDK adapted to their needs."
       },
       {
-        "jobTitle": "SALES INTERN",
-        "company": "ACLP, Le Havre (76)",
-        "year": "April - June 2020",
-        "responsibilities": ["Business development", "Email campaign", "Website creation on Prestashop"]
+        "name": "DevOps CI/CD Pipeline",
+        "description": "Creation of a complete CI/CD pipeline for a full-stack application using Spring Boot and Angular, with automated deployment and testing."
+      }
+    ],
+    "languages": [
+      {
+        "language": "Arabic",
+        "level": "Native"
       },
       {
-        "jobTitle": "TUTORED PROJECT - SKI",
-        "company": "IUT Caucriauville campus, Le Havre (76)",
-        "year": "2019 - 2020",
-        "responsibilities": ["Sales actions to fund the project", "Organization of a ski trip for 130 participants", "Negotiation of the contract for the following year"]
+        "language": "French",
+        "level": "Professional"
+      },
+      {
+        "language": "English",
+        "level": "Professional"
       }
     ]
   }

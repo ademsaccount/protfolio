@@ -10,12 +10,12 @@
           <div>
             <div class="flex justify-end w-full">
               <div class="w-2/3">
-                <img src="/img/logo-portfolio-white.webp" :alt="$t('alt.logoLogin')" class="mb-3" />
+                <img src="/img/seddik_s.webp" :alt="$t('alt.logoLogin')" class="mb-3" />
               </div>
             </div>
             <div class="w-full flex justify-end">
               <div class="w-10/12 mr-12">
-                <h2 class="text-white text-lg text-right">
+                <h2 class="text-white text-xl md:text-2xl text-right">
                   {{ $t('message.toBegin') }}
                 </h2>
               </div>
