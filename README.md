@@ -3,7 +3,7 @@
 
 [![Quality Gate Status](https://sonarqube.rocketegg.systems/api/project_badges/measure?project=PortfolioXp&metric=alert_status&token=sqb_c0b5f74b6c031ae2f329c6c588e3c8bc48556788)](https://sonarqube.rocketegg.systems/dashboard?id=PortfolioXp)
 [![Lines of Code](https://sonarqube.rocketegg.systems/api/project_badges/measure?project=PortfolioXp&metric=ncloc&token=sqb_c0b5f74b6c031ae2f329c6c588e3c8bc48556788)](https://sonarqube.rocketegg.systems/dashboard?id=PortfolioXp)
-![GitHub package.json ](https://img.shields.io/github/package-json/v/UnMugViolet/portfolio/main)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/UnMugViolet/portfolio/main)
 ![GitHub repo size](https://img.shields.io/github/repo-size/UnMugViolet/portfolio)
 ![GitHub License](https://img.shields.io/github/license/UnMugViolet/portfolio)
 
@@ -14,8 +14,6 @@ If you like my work and want to support me! (Every little bit helps!)
 ## 🌐 Website
 
 ![portfolio](https://github.com/user-attachments/assets/77a7b9c0-6276-43b4-8792-a1f6e86306f0)
-
-### [https://pauljaguin.com](https://pauljaguin.com)
 
 ## 👷 Disclaimers
 
@@ -48,7 +46,7 @@ I've been waiting for the Spotify team to review my application for extension re
 Since WindowsXp design was not really meant to be eco friendly _(thanks to the billions of linear gradients)_
 I did my best to make it as lightweight as possible.
 
-[Link to Website Carbon Calculator website](https://www.websitecarbon.com/website/pauljaguin-com-office/)
+[Link to Website Carbon Calculator](https://www.websitecarbon.com/)
 
 ## 🎨 Webdesign
 
@@ -60,14 +58,14 @@ You can still use the components created in the Figma Design they are free and n
 [Link to Figma](https://www.figma.com/design/8tPMCpOidM1YSSAZt516iK/Portfolio?node-id=0-1&t=JnfahWXeIxcdy3UJ-1)
 
 
-I used after that the docker image of windows xp, that helps a lot to see all the small interactions there is :
+I used after that the docker image of windows xp, that helps a lot to see all the small interactions there is:
 
 [Link to Dockurr repo](https://github.com/dockur/windows)
 
 
 ## ⌨️ Deployement
 
-The deployment is made using a Jenkins pipeline with Sonarqube on my personal server _see projects->Homeserver_ on my porfolio for more details. 
+The deployment is made using a Jenkins pipeline with Sonarqube on my personal server.
 
 ## 🔨 Usage
 
@@ -118,4 +116,3 @@ docker compose up -d
 ```
 
 Now you can access the website at [http://localhost:35000](http://localhost:35000)
-
