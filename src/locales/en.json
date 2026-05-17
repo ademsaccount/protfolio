@@ -266,6 +266,61 @@
         "splitter": "➿ Répartiteur SATA",
         "hddSpecs": "🗃️ HDD Western Digital"
       }
+    },
+    "tawasalna": {
+      "contextFirstParagraph": "Tawasalna is a hyper-local mobile application developed during my capstone internship at IPact Consult. The goal was to create a platform where users can communicate, interact, and publish location-based content, with an integrated marketplace.",
+      "contextSecondParagraph": "The app was designed using MVVM architecture. I built the frontend with React Native (Expo) and the backend with Spring Boot. The main challenge was performance optimization to ensure a smooth user experience across Android and iOS.",
+      "goalFirst": "Build a cross-platform mobile application",
+      "goalSecond": "Implement hyper-local content and location-based features",
+      "goalThird": "Develop a marketplace system integrated into the app",
+      "goalFourth": "Optimize performance across Android and iOS",
+      "goalFifth": "Ensure seamless backend API integration"
+    },
+    "restaurantManagement": {
+      "contextFirstParagraph": "A management portal designed for franchise restaurant owners to oversee their operations from a single interface, built during my summer internship at IPact Consult.",
+      "contextSecondParagraph": "The portal provides features for managing staff, tracking performance metrics, and overseeing daily operations. I built the backend with Node.js and the mobile frontend with React Native using Expo Go. The focus was on delivering a seamless and responsive user experience across devices.",
+      "goalFirst": "Design an intuitive management interface",
+      "goalSecond": "Implement staff management features",
+      "goalThird": "Build performance tracking and metrics dashboard",
+      "goalFourth": "Deliver responsive mobile experience",
+      "goalFifth": "Ensure real-time data synchronization"
+    },
+    "aquaguard": {
+      "contextFirstParagraph": "AquaGuard is a mobile application suite aimed at promoting water conservation and protecting aquatic life, developed as an academic project at ESPRIT.",
+      "contextSecondParagraph": "I designed and built both admin and user interfaces for Android, iOS, and Flutter. The backend was powered by Node.js. The project focused on environmental sustainability — leveraging technology to raise awareness and provide actionable tools for water conservation.",
+      "goalFirst": "Design user-friendly interfaces for water conservation",
+      "goalSecond": "Build cross-platform mobile applications",
+      "goalThird": "Implement environmental awareness features",
+      "goalFourth": "Create actionable tools for water management",
+      "goalFifth": "Develop robust backend infrastructure"
+    },
+    "crosschat": {
+      "contextFirstParagraph": "CrossChat is a proprietary real-time messaging SDK that I designed and developed for Android, iOS, and Flutter applications.",
+      "contextSecondParagraph": "The SDK is accessible via a dedicated platform where developers can register, generate tokens, and download the SDK tailored to their stack. I built the entire platform and SDK from scratch, handling cross-platform compatibility across Flutter, Android (Kotlin), and iOS (Swift).",
+      "goalFirst": "Develop a cross-platform messaging SDK",
+      "goalSecond": "Build developer registration and token generation system",
+      "goalThird": "Ensure seamless integration across platforms",
+      "goalFourth": "Create comprehensive SDK documentation",
+      "goalFifth": "Implement real-time messaging functionality"
+    },
+    "electionManagement": {
+      "contextFirstParagraph": "A desktop application built in C on Ubuntu for managing elections, developed as part of my studies at ESPRIT.",
+      "contextSecondParagraph": "I designed a user-friendly interface using Glade with GTK+. The app supports candidate and voter management, electronic voting, and results display. Data is stored locally using flat files (CSV/JSON). This project deepened my understanding of system-level programming and UI design on Linux.",
+      "goalFirst": "Design user-friendly desktop interface",
+      "goalSecond": "Implement candidate and voter management",
+      "goalThird": "Build electronic voting system",
+      "goalFourth": "Display comprehensive election results",
+      "goalFifth": "Manage data storage with CSV/JSON files"
+    },
+    "cicdpipeline": {
+      "contextFirstParagraph": "A DevOps academic project focused on building an automated CI/CD pipeline for a full-stack application.",
+      "contextSecondParagraph": "I developed the full pipeline using Jenkins for automation, Docker for containerization, SonarQube for code quality analysis, Nexus for artifact management, and JUnit for testing. The application stack was Spring Boot on the backend and Angular on the frontend. This project gave me hands-on experience with the full DevOps lifecycle.",
+      "goalFirst": "Build automated CI/CD pipeline with Jenkins",
+      "goalSecond": "Containerize application using Docker",
+      "goalThird": "Implement code quality analysis with SonarQube",
+      "goalFourth": "Set up artifact management with Nexus",
+      "goalFifth": "Deploy full-stack application",
+      "goalSixth": "Establish comprehensive testing framework"
     }
   },
   "alt": {

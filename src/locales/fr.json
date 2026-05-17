@@ -262,6 +262,61 @@
         "splitter": "➿ Répartiteur SATA",
         "hddSpecs": "🗃️ HDD Western Digital"
       }
+    },
+    "tawasalna": {
+      "contextFirstParagraph": "Tawasalna est une application mobile hyper-locale développée au cours de mon stage de fin d'études chez IPact Consult. L'objectif était de créer une plateforme où les utilisateurs peuvent communiquer, interagir et publier du contenu géolocalisé, avec un marché intégré.",
+      "contextSecondParagraph": "L'application a été conçue selon l'architecture MVVM. J'ai développé le frontend avec React Native (Expo) et le backend avec Spring Boot. Le principal défi était l'optimisation des performances pour assurer une expérience utilisateur fluide sur Android et iOS.",
+      "goalFirst": "Développer une application mobile multiplateforme",
+      "goalSecond": "Implémenter les fonctionnalités hyper-locales et basées sur la géolocalisation",
+      "goalThird": "Créer un système de marché intégré à l'application",
+      "goalFourth": "Optimiser les performances sur Android et iOS",
+      "goalFifth": "Assurer une intégration transparente avec les API backend"
+    },
+    "restaurantManagement": {
+      "contextFirstParagraph": "Un portail de gestion conçu pour les propriétaires de restaurants franchise afin de gérer leurs opérations depuis une interface unique, développé au cours de mon stage d'été chez IPact Consult.",
+      "contextSecondParagraph": "Le portail fournit des fonctionnalités pour gérer le personnel, suivre les métriques de performance et surveiller les opérations quotidiennes. J'ai développé le backend avec Node.js et le frontend mobile avec React Native via Expo Go. L'accent était mis sur la livraison d'une expérience utilisateur fluide et réactive sur tous les appareils.",
+      "goalFirst": "Concevoir une interface de gestion intuitive",
+      "goalSecond": "Implémenter les fonctionnalités de gestion du personnel",
+      "goalThird": "Construire un tableau de bord de suivi des performances",
+      "goalFourth": "Offrir une expérience mobile réactive",
+      "goalFifth": "Assurer la synchronisation des données en temps réel"
+    },
+    "aquaguard": {
+      "contextFirstParagraph": "AquaGuard est une suite d'applications mobiles visant à promouvoir la conservation de l'eau et la protection de la vie aquatique, développée comme un projet académique à l'ESPRIT.",
+      "contextSecondParagraph": "J'ai conçu et développé les interfaces administrateur et utilisateur pour Android, iOS et Flutter. Le backend était alimenté par Node.js. Le projet s'est concentré sur la durabilité environnementale — exploiter la technologie pour sensibiliser et fournir des outils exploitables pour la conservation de l'eau.",
+      "goalFirst": "Concevoir des interfaces conviviales pour la conservation de l'eau",
+      "goalSecond": "Construire des applications mobiles multiplateforme",
+      "goalThird": "Implémenter des fonctionnalités de sensibilisation environnementale",
+      "goalFourth": "Créer des outils exploitables pour la gestion de l'eau",
+      "goalFifth": "Développer une infrastructure backend robuste"
+    },
+    "crosschat": {
+      "contextFirstParagraph": "CrossChat est un SDK propriétaire de messagerie en temps réel que j'ai conçu et développé pour les applications Android, iOS et Flutter.",
+      "contextSecondParagraph": "Le SDK est accessible via une plateforme dédiée où les développeurs peuvent s'enregistrer, générer des tokens et télécharger le SDK adapté à leur stack. J'ai construit l'ensemble de la plateforme et du SDK à partir de zéro, gérant la compatibilité multiplateforme sur Flutter, Android (Kotlin) et iOS (Swift).",
+      "goalFirst": "Développer un SDK de messagerie multiplateforme",
+      "goalSecond": "Construire un système d'enregistrement et de génération de tokens pour les développeurs",
+      "goalThird": "Assurer une intégration transparente sur toutes les plateformes",
+      "goalFourth": "Créer une documentation complète du SDK",
+      "goalFifth": "Implémenter la fonctionnalité de messagerie en temps réel"
+    },
+    "electionManagement": {
+      "contextFirstParagraph": "Une application de bureau construite en C sur Ubuntu pour gérer les élections, développée dans le cadre de mes études à l'ESPRIT.",
+      "contextSecondParagraph": "J'ai conçu une interface conviviale en utilisant Glade avec GTK+. L'application supporte la gestion des candidats et des électeurs, le vote électronique et l'affichage des résultats. Les données sont stockées localement en utilisant des fichiers plats (CSV/JSON). Ce projet a approfondi ma compréhension de la programmation au niveau système et de la conception d'interface sur Linux.",
+      "goalFirst": "Concevoir une interface de bureau conviviale",
+      "goalSecond": "Implémenter la gestion des candidats et des électeurs",
+      "goalThird": "Construire le système de vote électronique",
+      "goalFourth": "Afficher les résultats électoraux complets",
+      "goalFifth": "Gérer le stockage des données avec les fichiers CSV/JSON"
+    },
+    "cicdpipeline": {
+      "contextFirstParagraph": "Un projet DevOps académique axé sur la création d'un pipeline CI/CD automatisé pour une application full-stack.",
+      "contextSecondParagraph": "J'ai développé le pipeline complet en utilisant Jenkins pour l'automatisation, Docker pour la containerisation, SonarQube pour l'analyse de la qualité du code, Nexus pour la gestion des artefacts et JUnit pour les tests. La stack d'application était Spring Boot sur le backend et Angular sur le frontend. Ce projet m'a donné une expérience pratique du cycle de vie DevOps complet.",
+      "goalFirst": "Construire un pipeline CI/CD automatisé avec Jenkins",
+      "goalSecond": "Containeriser l'application en utilisant Docker",
+      "goalThird": "Implémenter l'analyse de la qualité du code avec SonarQube",
+      "goalFourth": "Configurer la gestion des artefacts avec Nexus",
+      "goalFifth": "Déployer une application full-stack",
+      "goalSixth": "Établir un cadre de test complet"
     }
   },
   "alt": {

@@ -5,13 +5,12 @@ import { useGoBackStore } from '@/stores/goBackStore'
 
 import projectData from '@/data/projects-data.json'
 import WindowLeftMenu from '@/components/Windows/WindowLeftMenu.vue'
-import HomeserverContent from '@/components/Windows/MyProjects/HomeserverContent.vue'
-import ClenchContent from '@/components/Windows/MyProjects/ClenchContent.vue'
-import LogmaContent from '@/components/Windows/MyProjects/LogmaContent.vue'
-import PangaiaContent from '@/components/Windows/MyProjects/PangaiaContent.vue'
-import FannyContent from './MyProjects/FannyContent.vue'
-import Emc2Content from './MyProjects/Emc2Content.vue'
-import AidellaContent from './MyProjects/AidellaContent.vue'
+import TawasalnaContent from '@/components/Windows/MyProjects/TawasalnaContent.vue'
+import RestaurantManagementContent from '@/components/Windows/MyProjects/RestaurantManagementContent.vue'
+import AquaguardContent from '@/components/Windows/MyProjects/AquaguardContent.vue'
+import CrosschatContent from '@/components/Windows/MyProjects/CrosschatContent.vue'
+import ElectionManagementContent from '@/components/Windows/MyProjects/ElectionManagementContent.vue'
+import CicdpipelineContent from '@/components/Windows/MyProjects/CicdpipelineContent.vue'
 
 const props = defineProps({
   leftMenuType: String
@@ -74,13 +73,12 @@ const closeAllProjects = () => {
 
 // Map of component names to component objects
 const componentMap = {
-  HomeserverContent,
-  ClenchContent,
-  LogmaContent,
-  PangaiaContent,
-  Emc2Content,
-  FannyContent,
-  AidellaContent
+  TawasalnaContent,
+  RestaurantManagementContent,
+  AquaguardContent,
+  CrosschatContent,
+  ElectionManagementContent,
+  CicdpipelineContent
 }
 
 // Computed property that returns the component object based on the componentName of the selected project
