@@ -64,18 +64,13 @@ const dismissForever = () => {
 
 						<!-- Buttons -->
 						<div class="flex flex-col gap-2">
-							<a	href="https://github.com/UnMugViolet/portfolio" 
+							<a	href="https://github.com/ademsaccount/protfolio" 
 								target="_blank"
 								class="bg-button-submit hover:shadow-button-submit-hover active:bg-button-clicked border border-twilight-blue rounded px-3 py-1 text-xs text-black flex items-center justify-center gap-2 cursor-pointer shadow-sm">
 								<span>⭐</span>
 								<span>{{ t('clippy.starRepo') }}</span>
 							</a>
-							<a  href="https://buymeacoffee.com/unmugviolet"
-								target="_blank"
-								class="bg-button-submit hover:shadow-button-submit-hover active:bg-button-clicked border border-twilight-blue rounded px-3 py-1 text-xs text-black flex items-center justify-center gap-2 cursor-pointer shadow-sm">
-								<span>☕</span>
-								<span>{{ t('clippy.buyMeCoffee') }}</span>
-							</a>
+					
 						</div>
 
 						<!-- Don't show again -->
