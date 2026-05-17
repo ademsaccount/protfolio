@@ -21,8 +21,6 @@ If you encounter any bugs it will be really helpfull if you could provide the or
 **This design was not made by me**.
 All the icons, wallpaper and sounds belong to windows corporation, so there's nothing I've created here. All I did was copy and apply the design for the web.
 
-**The music component is ~~broken~~ working**.
-I've been waiting for the Spotify team to review my application for extension request, first review was mentionning the usage of old logo of spotify, they were right there is some guidelines about the graphics and I complied, second review said basically that there will not be enough user for that use case. I put all the code to the trash and start all over with songs played locally. 
 
 ## ✨ Features
 
